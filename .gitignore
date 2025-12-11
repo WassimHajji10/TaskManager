@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+*.ncb
+*.sdf
+*.ipch
+*.opensdf
+*.obj
+*.o
+*.exe
+*.log
+*.pdb
+*.ilk
+*.lib
+*.dll
+
+# OS generated files
+Thumbs.db
+.DS_Store
